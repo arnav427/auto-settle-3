@@ -1,0 +1,13 @@
+damage_type,severity,part_frac,paint_frac,labour_hrs
+scratch,minor,0,0.35,1.5
+scratch,moderate,0,1.0,3
+scratch,severe,0,1.0,4.5
+dent,minor,0,0.2,2
+dent,moderate,0,1.0,4
+dent,severe,1,1.0,6
+crack,minor,0,0,1
+crack,moderate,1,1.0,2.5
+crack,severe,1,1.0,3.5
+broken,minor,1,1.0,2
+broken,moderate,1,1.0,2.5
+broken,severe,1,1.0,3.5

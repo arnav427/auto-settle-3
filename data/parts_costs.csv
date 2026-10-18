@@ -1,0 +1,16 @@
+component,category,part_cost,paint_cost,labour_factor
+front_bumper,panel,7000,3500,1.0
+rear_bumper,panel,6500,3500,1.0
+bonnet,panel,14000,5000,1.2
+front_door,panel,12000,4500,1.2
+rear_door,panel,11000,4500,1.2
+fender,panel,6000,3500,1.0
+quarter_panel,panel,16000,5500,1.5
+roof,panel,22000,7000,1.8
+boot_lid,panel,9000,4000,1.0
+side_mirror,mirror,3500,800,0.5
+headlight,lamp,9000,0,0.8
+taillight,lamp,4500,0,0.5
+windshield,glass,11000,0,1.5
+rear_windshield,glass,7500,0,1.5
+door_glass,glass,3500,0,0.8
