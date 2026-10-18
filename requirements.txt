@@ -1,0 +1,6 @@
+streamlit>=1.40
+pillow
+requests
+pandas
+opencv-python-headless
+pytest
